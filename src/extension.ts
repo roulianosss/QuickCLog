@@ -24,9 +24,7 @@ function activate(context: vscode.ExtensionContext) {
       const afterLineAction = new vscode.CodeAction('Insert console.log after line', vscode.CodeActionKind.QuickFix);
       afterLineAction.command = { command: 'extension.logAfterLine', title: 'Insert Console.log After Line' };
       afterLineAction.diagnostics = [diagnostic];
-      console.log('afterLineAction', afterLineAction);
 
-      console.log('beforeLineAction', beforeLineAction);
       return [beforeLineAction, afterLineAction];
     }
   });

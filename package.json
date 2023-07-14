@@ -1,8 +1,9 @@
 {
-  "name": "roulianosss",
+  "name": "QuickCLog",
   "displayName": "QuickCLog",
   "description": "An extension that automatically inserts console.log statements for selected variables in Visual Studio Code.",
   "version": "0.0.1",
+  "publisher": "Roulianosss",
   "engines": {
     "vscode": "^1.80.0"
   },
@@ -59,5 +60,9 @@
     "mocha": "^10.2.0",
     "typescript": "^5.1.3",
     "@vscode/test-electron": "^2.3.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/roulianosss/QuickCLog.git"
   }
 }

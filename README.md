@@ -29,7 +29,7 @@ This extension allows you to quickly insert `console.log` statements before or a
 
 ## Known Issues
 
-- No known issues at the moment. If you encounter any problems, please [report them](https://github.com/roulianosss/QuickCLog/issues).
+- No known issues at the moment. If you encounter any problems, please report them in the [Issues](https://github.com/roulianosss/QuickCLog/issues) section of the GitHub repository.
 
 ## Contributing
 
@@ -43,10 +43,11 @@ Contributions are welcome! Please follow these steps to contribute:
 
 ## License
 
-This extension is released under the [MIT License](https://opensource.org/licenses/MIT). See the [LICENSE](LICENSE) file for more details.
+This extension is released under the [MIT License](https://opensource.org/licenses/MIT).
 
 ## Contact
 
-For any questions or suggestions, feel free to reach out to the project maintainer.
+For any questions or suggestions, feel free to reach out to the project maintainer:
 
-
+- Roulianosss
+- Email: roulianosss@gmail.com
