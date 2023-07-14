@@ -29,7 +29,7 @@ This extension allows you to quickly insert `console.log` statements before or a
 
 ## Known Issues
 
-- No known issues at the moment. If you encounter any problems, please [report them](https://github.com/your-repo-url/issues).
+- No known issues at the moment. If you encounter any problems, please [report them](https://github.com/roulianosss/QuickCLog/issues).
 
 ## Contributing
 
@@ -47,6 +47,6 @@ This extension is released under the [MIT License](https://opensource.org/licens
 
 ## Contact
 
-For any questions or suggestions, feel free to reach out to the project maintainer:
+For any questions or suggestions, feel free to reach out to the project maintainer.
 
 
