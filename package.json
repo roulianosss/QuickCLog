@@ -2,7 +2,7 @@
   "name": "QuickCLog",
   "displayName": "QuickCLog",
   "description": "An extension that automatically inserts console.log statements for selected variables in Visual Studio Code.",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "publisher": "Roulianosss",
   "engines": {
     "vscode": "^1.80.0"
