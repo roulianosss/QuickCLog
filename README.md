@@ -23,7 +23,7 @@ This extension allows you to quickly insert `console.log` statements before or a
 
 1. Open a JavaScript or TypeScript file in the editor.
 2. Select the variable you want to log.
-3. Code Actions on the selected variable or use the command palette (Ctrl+Shift+P).
+3. Right Click
 4. Choose either "Insert console.log before line" or "Insert console.log after line" from the available commands.
 5. A `console.log` statement will be inserted at the appropriate position.
 
